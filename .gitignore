@@ -3,3 +3,15 @@
 *.test
 *.out
 .DS_Store
+!*/
+!*.go
+!*.mod
+!*.sum
+!*.md
+!*.yml
+!*.yaml
+!*.json
+!*.txt
+!LICENSE
+!Makefile
+!Dockerfile
